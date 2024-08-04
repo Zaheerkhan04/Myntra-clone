@@ -1,1 +1,3 @@
-![summerTop](https://github.com/user-attachments/assets/100e9b69-2cdb-4422-ad3e-f8b0ef141382)# Myntra-clone
+# Myntra-clone
+![image](https://github.com/user-attachments/assets/2138d9cb-1cf0-4900-90ff-e6f7904652f5)
+
